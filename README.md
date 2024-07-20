@@ -1,4 +1,4 @@
-# Adjutor API Test Scripts
+# Adjutor API Test Scripts [N.B Switch to master branch]
 
 This repository contains Postman test scripts for testing Adjutor APIs.
 
